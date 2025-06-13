@@ -1,7 +1,7 @@
-print("📟 Console X v1.3 — Powered by Dhelan and Jhake...")
+print("Console X v1.3 — Powered by Dhelan and Jhake...")
 
-print("🔐 Status: {Online}")
+print("Status: {Online}")
 
-print("🥺 Please Support Us by Liking our Script in Scriptblox!. ")
+print("Us by Liking our Script in Scriptblox!. ")
 
-print("🌐 Scriptblox Link added to Clipboard")
+print("Scriptblox Link added to Clipboard")
