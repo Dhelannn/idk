@@ -1,4 +1,4 @@
-print("Console X v1.3 — Powered by Dhelan and Jhake...")
+print("Console X v1.3 — Powered by Dhelan and xlox262...")
 
 print("Status: {Online}")
 
