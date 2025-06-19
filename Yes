@@ -1,5 +1,3 @@
 print("TerminalX v1.4 — Powered by Eclipse Duo...")
 
-print("Support us by Liking our Script in Scriptblox!. ")
-
-print("Scriptblox Link added to Clipboard")
+print("Status: {Online}")
