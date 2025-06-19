@@ -1,7 +1,5 @@
-print("Console X v1.3 — Powered by Dhelan and xlox262...")
+print("TerminalX v1.4 — Powered by Eclipse Duo...")
 
-print("Status: {Online}")
-
-print("Us by Liking our Script in Scriptblox!. ")
+print("Support us by Liking our Script in Scriptblox!. ")
 
 print("Scriptblox Link added to Clipboard")
