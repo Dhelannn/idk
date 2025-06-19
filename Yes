@@ -1,2 +1,1 @@
-print("TerminalX v1.4 — Powered by Eclipse Duo...")
 print("Status: {Online}")
