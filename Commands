@@ -1,4 +1,4 @@
-warn("[TerminalX v1.5] Command List:")
+warn("[TerminalX] Commands: "11")
 		warn("/enable        - Bring Executor UI back")
 		warn("/disable       - Hide Executor UI")
 		warn("/dex           - Dex Explorer")
